@@ -1,0 +1,68 @@
+[
+  {
+    "uuid": "2bedf71f-fce3-3ed7-b5e8-1414cf62b7cb",
+    "name": "AnhDV",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "46e341bd-6977-3984-9890-e0b4adea5f27",
+    "name": "bot_2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "de09b224-64f4-3b1f-814f-84637f78e538",
+    "name": "bot_5",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "ad01bbdf-24e3-3f2f-a30d-1faf37cbcf05",
+    "name": "bot_6",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "6b1d6a6c-524e-351a-aadc-caa8f4436638",
+    "name": "bot_10",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "14e2c610-d1df-3c3c-ace4-682035a42d24",
+    "name": "bot_3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d10d1b10-3db1-3a91-a39f-20d9fdaf9701",
+    "name": "bot_7",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "9bd5f836-30e9-3c2a-8b1c-2762d89bb0e8",
+    "name": "bot_1",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "1cbb2c58-3cee-36e4-9676-e50b5ec5abed",
+    "name": "bot_4",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "265b1d07-ecb0-34dc-be32-654a62a6e38b",
+    "name": "bot_8",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "59a8da23-96fa-3921-808d-7aaf1b0b2a3c",
+    "name": "bot_9",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
