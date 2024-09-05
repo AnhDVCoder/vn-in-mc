@@ -40,11 +40,13 @@
 
 This project aims to create a playground for the Minecraft community to rebuild the entire Vietnam into Minecraft.
 
+## Scan Google map
 Scan Google map using Nodejs Puppeteer library
-
 ![Alt text](images/demo-scan-gg.gif)
 
-Convert into file Litematic using [Stable-Diffusion](https://github.com/AUTOMATIC1111/stable-diffusion-webui) via extention mine-diffusion(https://github.com/fropych/mine-diffusion) 
+## Convert into Schematic
+Convert into Litematic file using [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) via extention [mine-diffusion](https://github.com/fropych/mine-diffusion)
+Using [Lite2Edit](https://github.com/GoldenDelicios/Lite2Edit/) convert Litematic to Schematic file
 
 ![Alt text](images/demo-convert.gif)
 
