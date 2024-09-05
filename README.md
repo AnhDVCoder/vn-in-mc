@@ -46,6 +46,7 @@ Scan Google map using Nodejs Puppeteer library
 
 ## Convert into Schematic
 Convert into Litematic file using [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) via extention [mine-diffusion](https://github.com/fropych/mine-diffusion)
+<br>
 Using [Lite2Edit](https://github.com/GoldenDelicios/Lite2Edit/) convert Litematic to Schematic file
 
 ![Alt text](images/demo-convert.gif)
