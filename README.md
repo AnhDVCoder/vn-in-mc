@@ -44,9 +44,9 @@ Scan Google map using Nodejs Puppeteer library
 
 ![Alt text](images/demo-scan-gg.gif)
 
-Convert into file Litematic using Stable-Diffusion-wegui(https://github.com/AUTOMATIC1111/stable-diffusion-webui) via extention mine-diffusion(https://github.com/fropych/mine-diffusion) 
+Convert into file Litematic using [https://github.com/AUTOMATIC1111/stable-diffusion-webui](Stable-Diffusion-wegui) via extention mine-diffusion(https://github.com/fropych/mine-diffusion) 
 
-![Alt text](images/demo-bot-place.gif)
+![Alt text](images/demo-convert.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
